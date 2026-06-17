@@ -1,5 +1,7 @@
 # Task-3-FakanPeter
 
+DecodeLabs Data Analytics Internship — Project 3: SQL Data Analysis
+
 # DecodeLabs Data Analytics Internship — Project 3: SQL Data Analysis
 
 ## 📌 Project Overview
